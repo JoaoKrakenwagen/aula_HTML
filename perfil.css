@@ -1,0 +1,39 @@
+.Título{
+  color: #0000FF;
+}
+
+#diva{
+  position: absolute;
+
+  top: 50vh;
+  left: 50vw;
+
+  width: 70vw;
+  height: 70vh;
+
+
+  margin-top: -35vh;
+  margin-left: -35vw;
+
+}
+
+body {
+  background-color: #E20627;
+  font-family: Arial;
+  font-size: 18px;
+  height: 100vh;
+  width: 100vw;
+}
+
+.Tabela{
+  border: 5px inset blue;
+  margin-top: -100px;
+}
+
+th{
+  border-right: 5px dotted yellow;
+}
+
+td, th{
+  border-bottom: 5px dotted yellow;
+}
